@@ -1,8 +1,5 @@
 # HibernateDemo
 CRUD Operations example Using Hibernate
-
-
-
 # Overview
 Hibernate an open source Java persistence framework project. Perform powerful object relational mapping and query databases using HQL and SQL. [ Read more ](http://hibernate.org/).
 
